@@ -4,6 +4,7 @@
   "description": "Project to training about streams on nodejs",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dev-MarcosVinicius/streams-on-nodejs/issues"
   },
-  "homepage": "https://github.com/dev-MarcosVinicius/streams-on-nodejs#readme"
+  "homepage": "https://github.com/dev-MarcosVinicius/streams-on-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
