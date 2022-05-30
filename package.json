@@ -1,0 +1,19 @@
+{
+  "name": "streams-on-nodejs",
+  "version": "1.0.0",
+  "description": "Project to training about streams on nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-MarcosVinicius/streams-on-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-MarcosVinicius/streams-on-nodejs/issues"
+  },
+  "homepage": "https://github.com/dev-MarcosVinicius/streams-on-nodejs#readme"
+}
